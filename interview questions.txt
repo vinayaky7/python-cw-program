@@ -1,0 +1,120 @@
+
+infogen labs 16/1/24
+lambda to db connectin pvt subnet
+alias (aws resorse direct attach)vs cname
+ebs volm increase
+wht is terrafom state
+terrfm state
+term apply
+trfm modules, own modules
+trfm varible
+dkr k8 layer
+dkr imge vs container
+latest  image
+port in k8
+types of worker nodes in k8
+daemon set in k8
+cicd pipeline
+DYNAMIC APP DEPLOY ON S3
+DB S3 REGION SPECIFIC
+HOW TO CREATE BACKUP OD DB
+API GATEWAY use
+COGNITO
+COUDFRONT
+
+
+
+SA tech 29 jan 24
+same bucket name in dif aco and regiion, reason
+dockerfile optimization
+how to handle stalefile in S3
+nacl vs security groups
+pipeline explain, use choise in parameters
+which ci tool used
+scripted vs declarative
+terraform state locking
+which aws services you worked on
+are u worked on cloudfront
+expain your intro
+worked on api?
+provisionors vs providers
+
+
+flipkart 18/1/24
+what is resp in aws , monitoring
+bmc 
+server nt reachable
+rsync scp
+sysm /nml user
+9th std permission
+rws permsn 3 ty suid sgid stickybit
+lvm
+partition
+gpt partition table
+file system ad block storage
+role of filesytem, purpose
+ip protocal tcp
+tcp vs udp
+diff kill vs kill -9
+scrit bash 
+
+
+suraj
+What is Microsoft entraID
+How many storage options in azure cloud
+What is container size of blob storage
+Tell me about resource group
+Which environment u use for your server
+How you perform cutover
+How many migration u done
+What is site to site recovery
+What is ulimit command in linux
+Tell me about file descriptor
+What to expose port without docker file
+What is a node pool in AKS
+What is the purpose of Helm in AKS?
+Walk me through of Master slave architecture of kubernet
+Have you created cicd pipeline if yes then tell me how you choose cicd server and deployment
+Do you know about Kubernetes Pod Lifecycle.
+multple user input in bash
+shebang file how to communicate with kernel
+Ingress in Kubernetes, and  it is different from a Service?
+How to communicate with two vnet
+Linux che pathau ka
+How to perform lvm on two row disk
+Can we decript the /shodow directory encrypted password
+Ulimit command
+File descriptor
+How many mount options are available in Linux
+What tool u use for patching
+How to change umask value to 744 for a directory
+
+
+default services k8s
+vpc max in per region
+cmd for env variables in linux
+port up checking command in linux netstat
+defualt namespace in linux
+exit status of last command in linux $?
+
+
+GSPANN 2 feb
+k8s jenkins connectin
+kubernetes 5xx error in application , how to resolve
+how to upgrade kubernet cluster
+add copy difference in dockerfile
+run entrypoint cmd difference in dockerfile
+docker multisatage bulid, have you writen
+how to know open port in linux
+how to limit process in linux to use resource
+explain cicd pipeline stages
+have you implemet cic delivery or cic deployment, what is difference
+introduce yourself, work exp and daily responsibility
+have you use shell scripting or python scripting
+how to reach into application pod and check the logs command
+current version using on kubernetes
+Run a Command in the Background: command &
+how to get 2 month old files in / dire in linux- find / -type f -mtime +60
+linux booting process
+limit cpu usage - #cpulimit -e process_name -l 50
+write python code to - get 2 input from user ,a list of numbers and ohter number as interger and output should be which index of 2 num in list, whose sum in number in second veriable

@@ -1,0 +1,17 @@
+'''
+operators precedence
+Highest to lowest precedence
+
+()
+**
+/, //, %
+*
++, -
+Bitwise shift- >>, <<
+&, |, ^
+comparison operators- ==, !=, >, <
+Logical operators- not, and , or
+
+'''
+
+ 

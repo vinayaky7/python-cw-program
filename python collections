@@ -1,0 +1,102 @@
+python collections(Arrays) : allow us to store collection of items in one variable
+
+1.  Lists: these allow us to store multiple items in single variable
+
+fruits = ["Apple", "banana", "Kiwi"]
+
+list items: indexed (index start with 0,1,2 like), ordered, mutable (able to change/update values), duplicates allowed, any datatype, mix of different data types
+
+Accessing items of a list:
+
+list = [10,20,30,40]
+index 0 1 2 3
+negative index -4 -3 -2 -1
+
+- indexing:   list[3]
+- negative indexing: list[-2]
+- range of indexes: to access sublist, list [starting index,ending index]   list[1:3]  or list[-3,-1]  i.e. ending index iteam not included  will get [20,30]
+- range of negative indexes:
+
+
+Adding elements to list
+append(): adds items to the list,  list.append[50],  it will added to end of list
+insert():  to add item to particular index number,  list.insert(2,60), here new item 60 added to index 2,  so new list [10,20,60,30,40,50]
+extend() to append another list to end of current list, if list2= [100,200] and list.extend(list 2) then list will be [10,20,30,40,50,100,200]
+
+
+removing element from list
+remove(): removes specified item
+pop(): remove item at given index or last item.
+
+
+changing items in list
+at an index: it will replace item at that index
+in a range:
+
+
+sorting a list
+ascending:
+descending:
+
+
+list comprehension
+when we want to make new list from item of an existing list
+
+nested list
+list inside list eg [20,30,[10,20],50]
+
+
+2.  Tuple:  used to store multiple values in variable
+colors =("blue","green","red")
+
+tuple items:
+ordered, immutable, duplicates allowed, any datatypes, mix of different data types
+
+
+tuple vs lists:
+- iterating through tuple is faster than in a list
+- list are mutable whereas tuples are immutable
+- tuples that contain immutable elements can be used as a key for dictionary
+
+
+
+3.  Sets: container for storing multiple values in variable
+names = {"vinayak", "urvi", "goel"}
+
+Set items:
+- unordered:
+- immutable:
+- un-indexed:
+- duplicates not allowed:
+- any datatypes:
+- mix of different data types:
+
+
+4.  Dictionary
+key-value pair
+
+dictionary items:
+- ordered
+- changeable
+- unindexed
+- duplicates not allowed
+- any datatype
+
+
+Functions:
+they are block of reusable code, which perform specific tasks
+
+types of function
+1. built-in
+2. user defined
+
+tyoes of arfument
+1. default arguments
+2. keyword named arguments
+3. positional arguments
+4. arbitrary arguments(variable- length arguments *args and **kwargs) args willbe take as tuples
+
+
+
+
+

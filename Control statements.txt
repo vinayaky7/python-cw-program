@@ -1,0 +1,12 @@
+Control statements
+Allow us to control the flow of program
+
+Conditional
+1.  if, if-else
+2.  nested
+3.  Else if ladder
+4.  Ternary
+5.  Switch
+
+
+
