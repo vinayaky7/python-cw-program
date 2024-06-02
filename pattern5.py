@@ -15,6 +15,7 @@ what to print= column number
 
 n = int(input("Enter n: "))
 
+
 for i in range(1, n+1):  # loop for rows
     # printing spaces
     print(" " * (n-i), end="")  # print spaces n-1 times
