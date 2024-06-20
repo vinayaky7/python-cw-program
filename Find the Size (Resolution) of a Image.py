@@ -15,3 +15,4 @@ if __name__ == "__main__":
         get_image_size(image_path)
     except Exception as e:
         print(f"Error: {e}")
+
