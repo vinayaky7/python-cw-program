@@ -43,3 +43,5 @@ elif percentage >= 41:
     print("The Grade obtained is Average:")
 else:
     print("The Grade obtained is failed:")
+
+
