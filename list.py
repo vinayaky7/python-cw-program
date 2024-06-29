@@ -18,7 +18,7 @@ print(len(fruits))  # check length of list
 # print(fruits[-3])   # mango
 #
 # print(fruits[1:3])  #[mango, cherry]
-# print(fruits[-3,-1]) #[mango, cherry]
+# print(fruits[-3,-1]) #[mango, cherry] for counting from -, 1 not consider 1st count.
 
 
 # adding elements to list
