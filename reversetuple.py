@@ -11,6 +11,7 @@ list = []
 for x in reversed(input_tuple):
     list.append(x)
 
-output_tuple = tuple(list)   # typecast into tuple
+output_tuple = tuple(list)   # type cast into tuple
 print(output_tuple)
+
 

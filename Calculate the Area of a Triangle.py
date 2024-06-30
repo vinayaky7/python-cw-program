@@ -11,3 +11,4 @@ area = calculate_area(base, height)
 
 # Print the result
 print(f"The area of the triangle is: {area}")
+

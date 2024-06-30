@@ -24,3 +24,4 @@ with open('book.pdf', 'rb') as file:
 
 
 
+
