@@ -34,3 +34,4 @@ c = 2
 x1, x2 = solve_quadratic(a, b, c)
 
 print(f"The solutions are: x1 = {x1}, x2 = {x2}")
+
