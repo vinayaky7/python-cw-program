@@ -10,3 +10,4 @@ if __name__ == "__main__":
         print("Sorted Dictionary by Value (Ascending):", sorted_dict)
     except Exception as e:
         print(f"Error: {e}")
+
