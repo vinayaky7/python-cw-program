@@ -8,4 +8,3 @@ a = 5
 b = 10
 
 swap_variables(a, b)
-

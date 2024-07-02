@@ -20,4 +20,3 @@ if __name__ == "__main__":
 #     capitalized_string = capitalize_first_char(string)
 #     print(f"Original string: {string}")
 #     print(f"Capitalized string: {capitalized_string}")
-

@@ -15,5 +15,3 @@ print("division:", 4/3)
 print("floor division:", 4//3)
 print("remainder:", 4%3)
 print("exponentiation:", 4**3)
-
-

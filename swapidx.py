@@ -20,4 +20,3 @@ list[idx1] = list[idx2]
 list[idx2] = temp
 
 print(list)
-

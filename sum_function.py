@@ -16,4 +16,3 @@ print("sum of all numbers:", output)
 n = int(input("Enter n: "))
 output1 = sumOneToN(n)
 print("sum of all numbers:", output1) 
-

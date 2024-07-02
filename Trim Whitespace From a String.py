@@ -33,4 +33,3 @@ if __name__ == "__main__":
 #     trimmed_string = trim_whitespace_regex(s)
 #     print(f"Original string: '{s}'")
 #     print(f"Trimmed string (regex): '{trimmed_string}'")
-

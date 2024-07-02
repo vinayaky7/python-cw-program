@@ -5,6 +5,3 @@ number2 = int(input("Enter number 2: "))
 sum = number1 + number2
 
 print("The sum of these two numbers is: ", sum)
-
-
-

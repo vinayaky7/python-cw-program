@@ -38,4 +38,3 @@ print(colours)
 #unpacking a tuple
 colour1, colour2, colour3 = colours
 print(colour1,colour2,colour3)
-

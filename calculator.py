@@ -16,4 +16,3 @@ match operator:
         print("Modulus is: ", num1 % num2)
     case _:
         print("Enter a Valid operator")
-

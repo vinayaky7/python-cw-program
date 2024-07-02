@@ -21,7 +21,3 @@ with open('book.pdf', 'rb') as file:
         speaker.runAndWait()
 
     speaker.stop()
-
-
-
-
