@@ -15,5 +15,3 @@ elif Selling_Price < Cost_Price :
 
 else:
     print("We have made no profit and no loss") 
-
-

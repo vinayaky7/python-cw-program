@@ -13,5 +13,3 @@ for x in reversed(input_tuple):
 
 output_tuple = tuple(list)   # type cast into tuple
 print(output_tuple)
-
-

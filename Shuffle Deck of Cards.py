@@ -18,4 +18,3 @@ shuffled_deck = shuffle_deck()
 print("Shuffled Deck:")
 for card in shuffled_deck:
     print(f"{card[0]} of {card[1]}")
-

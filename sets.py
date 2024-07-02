@@ -49,5 +49,3 @@ s2 = {'d', 'e', 'a'}
 # keep all values except duplicates
 # s1.symmetric_difference_update(s2)
 # print(s1)
-
-

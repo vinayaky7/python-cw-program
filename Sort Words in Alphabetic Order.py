@@ -10,7 +10,6 @@ def sort_words_alphabetically(input_string):
 
     return sorted_string
 
-
 # Example usage:
 try:
     input_string = input("Enter a string: ")
@@ -18,5 +17,3 @@ try:
     print(f"Sorted words in alphabetical order: {sorted_string}")
 except Exception as e:
     print(f"Error: {e}")
-
-

@@ -12,8 +12,6 @@ if __name__ == "__main__":
     print(f"Area: {area}")
     print(f"Perimeter: {perimeter}")
 
-
-
 # #####################################Using NamedTuples:#####################################
 # from collections import namedtuple
 #
