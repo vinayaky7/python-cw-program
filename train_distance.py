@@ -38,4 +38,3 @@ B = [ 2, 1, 3, 1, 4 ]
 N = len(A)
 
 print(calc_distance(A, B, N))
-
