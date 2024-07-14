@@ -10,5 +10,3 @@ elif eng_marks > 80 or math_marks > 80:
 # if neither of marks more than 80
 else:
     print("C grade")
-
-

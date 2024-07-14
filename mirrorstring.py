@@ -18,5 +18,3 @@ for i in range(0,len(suffix)):
 #creating final string
 res = prefix + mirror
 print("the result is :", res)
-
-
