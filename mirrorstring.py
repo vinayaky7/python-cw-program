@@ -19,3 +19,4 @@ for i in range(0,len(suffix)):
 res = prefix + mirror
 print("the result is :", res)
 
+
